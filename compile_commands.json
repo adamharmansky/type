@@ -1,0 +1,13 @@
+[
+  {
+    "arguments": [
+      "/bin/cc",
+      "-c",
+      "-I/usr/include/freetype2",
+      "-I/usr/include/libpng16",
+      "type.c"
+    ],
+    "directory": "/home/adam/source/type",
+    "file": "/home/adam/source/type/type.c"
+  }
+]
