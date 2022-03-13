@@ -8,7 +8,7 @@ The *simplest* OpenGL 1.1 FreeType library.
  * full UTF-8 support
  * a name so generic, that no one ever thought of it
 
-Example:
+## Example
 
 ```
 ...
@@ -24,3 +24,11 @@ main loop {
     ...
 }
 ```
+
+## Simple demo
+
+run `make run` to run a simple demo. It requires GLFW.
+
+## How do I use it im my program
+
+Have a look at the Makefile.
